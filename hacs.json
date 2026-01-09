@@ -1,0 +1,6 @@
+{
+  "name": "Energy Graph Scheduler Card",
+  "filename": "energy-graph-scheduler-card.js",
+  "type": "lovelace",
+  "version": "0.1.1"
+}
